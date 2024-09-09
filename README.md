@@ -12,6 +12,10 @@ This repository contains a Power BI dashboard file (`Online shopping.pbix`) for 
 
 ## Screenshot
 ![Dashboard Screenshot](https://github.com/venkatmadhu21/E-Commerce-Dashboard-Using-Power-Bi/raw/main/Screenshot%202024-09-09%20191556.png)
+## Screenshot
+Here is a preview of the dashboard:
+![Dashboard Screenshot](https://github.com/venkatmadhu21/E-Commerce-Dashboard-Using-Power-Bi/raw/main/Screenshot%202024-09-09%20191556.png)
+
 ![image](https://github.com/user-attachments/assets/3922be08-38d7-48b6-ab8b-cfe38fcfe3e6)
 
 
